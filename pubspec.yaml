@@ -11,7 +11,9 @@ dependencies:
     sdk: flutter
   http: ^1.0.0
   flutter_inappwebview:
-    git: https://github.com/dev-mahmoud-elshenawy/flutter_inappwebview.git
+    git:
+      url: https://github.com/dev-mahmoud-elshenawy/flutter_inappwebview.git
+      ref: master
 
 dev_dependencies:
   lints: ^2.1.0
